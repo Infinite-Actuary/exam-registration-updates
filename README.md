@@ -4,7 +4,7 @@
 
 ## Get Distill
 
-[Distill Web Monitor](https://distill.io/) is a cloud based application for monitoring website changes. The steps below are with the [Chrome extension](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge). But, a [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff/) is also available.
+[Distill Web Monitor](https://distill.io/) is a cloud based application for monitoring website changes. The steps below are for [Chrome](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge). But, a [Firefox](https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff/) add-on is also available.
 
 ## Add to Watchlist
 
