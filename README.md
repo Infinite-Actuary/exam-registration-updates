@@ -11,23 +11,23 @@
 1. Go to the [SOA exam registration](https://www.soa.org/education/exam-req/registration/edu-registration/) page:
 `https://www.soa.org/education/exam-req/registration/edu-registration/`.
 
-2. Click the extension icon on the top right, then choose`Add Monitor` > `Select parts of page`. Hover over the exam selector and click. The *XPath* expression should be `//select[@id='ddlExam']` and the exam options text should appear on the right.
+2. Click the Distill extension icon on the top right, then choose`Add Monitor` > `Select parts of page`. Hover over the exam selector and click. The *XPath* expression should be `//select[@id='ddlExam']` with the exam options text appearing on the right.
 
 ![select-element](https://raw.githubusercontent.com/Infinite-Actuary/exam-registration-updates/master/img/select-element.png)
 
-3. Click `Save selections`.
+3. Click `Save selections` and set the monitor properties.
   * **Name**: Give the monitor a name (e.g. *SOA registration updates*)
   * **Schedule checks**: Set the interval to `1 day`
   * **Actions**: Add an email action to receive notifications when the registration status (open/closed) changes
   * **Conditions**: Leave blank or add a condition to filter on specific exams
   * Click the `Save` button
 
-4. Now on the Watchlist page, make sure the device to run on is set to `webapp`. This way, the monitor will run even when you are offline. Make sure you see the `blue cloud` on the right and that the monitor is `ON`.
+4. On the Watchlist page, set the `device to run on` to `webapp`. The monitor should be `ON` with a `blue cloud` icon next to it. This way, the monitor will run even when you are offline. 
 
 ![distill watchlist](https://raw.githubusercontent.com/Infinite-Actuary/exam-registration-updates/master/img/distill-watchlist.png)
 
 ## Profit!
 
-You should now receive emails when your exam registration status changes.
+Now you will receive emails when your exam opens for registration.
 
 ![email alert](https://raw.githubusercontent.com/Infinite-Actuary/exam-registration-updates/master/img/email-alert.png)
