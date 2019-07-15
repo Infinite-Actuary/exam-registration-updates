@@ -22,5 +22,12 @@
   * **Conditions**: Leave blank or add a condition to filter on specific exams
   * Click the `Save` button
 
-4. On the Watchlist page, make sure the device to run on is set to `webapp`. This way, the monitor will run even when you are not online.
+4. On the Watchlist page, make sure the device to run on is set to `webapp`. This way, the monitor will run even when you are not online. Make sure you see the blue cloud on the right and that the monitor is on.
+
+![distill watchlist](https://raw.githubusercontent.com/Infinite-Actuary/exam-registration-updates/master/img/distill-watchlist.png)
+
+## Profit
+
+You should now receive emails when your exam registration status changes.
+
 
