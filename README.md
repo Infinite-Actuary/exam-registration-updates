@@ -28,6 +28,6 @@
 
 ## Profit!
 
-Now you will receive emails when your exam opens for registration.
+Now you'll receive email alerts when your exam opens for registration.
 
 ![email alert](https://raw.githubusercontent.com/Infinite-Actuary/exam-registration-updates/master/img/email-alert.png)
