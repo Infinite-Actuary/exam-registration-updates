@@ -17,7 +17,7 @@
 
 3. Click `Save selections`.
   * **Name**: Give the monitor a name (e.g. *SOA registration updates*)
-  * **Schedule checks**: Set the interval to `1 day`. 
+  * **Schedule checks**: Set the interval to `1 day`
   * **Actions**: Add an email action to receive notifications when the registration status (open/closed) changes
   * **Conditions**: Leave blank or add a condition to filter on specific exams
   * Click the `Save` button
